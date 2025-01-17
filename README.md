@@ -1,7 +1,7 @@
 # Generative AI for Spatial Data
 
 ## Overview
-This repository is dedicated to the seminar presentation **"Generative AI for Spatial Data"** presented by **Rajdip Ingale** (23m0323), 1st year M.Tech student at  IIT Bombay.
+This repository is dedicated to the seminar presentation **"Generative AI for Spatial Data"** presented by **Rajdip Ingale**, 1st year M.Tech student at  IIT Bombay.
 The seminar focuses on the evolution, applications, and potential of Generative AI for geospatial data processing, with an emphasis on developing a fine-tuned generative foundation model for flood mapping in India.
 
 The seminar highlights:
