@@ -59,7 +59,6 @@ Key geospatial applications include:
 - **Map Creation and Enhancement**: Generating realistic maps for planning and visualization.
 - **Data Restoration**: Reconstructing missing or corrupted satellite data.
 
-_Image Placeholder: Applications Slide_
 
 ---
 
@@ -77,7 +76,6 @@ The seminar aims to:
 1. Taxonomy and architecture of foundation models.
 2. Opportunities and risks of these models in geospatial applications.
 ![Demo Screenshot](images/1.3.png "Demo")
-![Demo Screenshot](images/1.4.png "Demo")
 
 #### SOTA Geospatial foundation models:
 1. **PRESTO**:
@@ -102,7 +100,7 @@ The seminar aims to:
 Identified challenges include:
 1. **Geographic Fidelity**: Errors in location predictions and misinterpretation of text and geospatial semantics.     ![Demo Screenshot](images/1.8.png "Demo") ![Demo Screenshot](images/1.9.png "Demo")
 
-2. **Geographic and Temporal Bias**: Systematic errors in predictions due to biases in training data. ![Demo Screenshot](images/1.10.png "Demo")
+2. **Geographic and Temporal Bias**: Systematic errors in predictions due to biases in training data.           ![Demo Screenshot](images/1.10.png "Demo")
 3. **Error in handling Spatial SQL Queries**:  ![Demo Screenshot](images/1.11.png "Demo")
 
 _Image Placeholder: Limitations Slide_
@@ -116,11 +114,12 @@ _Image Placeholder: Limitations Slide_
 
 ![Demo Screenshot](images/1.12.png "Demo")
 
+![Demo Screenshot](images/1.13.png "Demo")
+
 #### Key Features:
 1. Handles missing geospatial data efficiently.
 2. Leverages temporal and spectral encoding.
 3. Adapts to diverse geospatial datasets and inputs.
-![Demo Screenshot](images/1.13.png "Demo")
 
 
 ---
