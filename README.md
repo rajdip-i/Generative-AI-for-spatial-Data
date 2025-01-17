@@ -114,7 +114,6 @@ _Image Placeholder: Limitations Slide_
 
 ![Demo Screenshot](images/1.12.png "Demo")
 
-![Demo Screenshot](images/1.13.png "Demo")
 
 #### Key Features:
 1. Handles missing geospatial data efficiently.
