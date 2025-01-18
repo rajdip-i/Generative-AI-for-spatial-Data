@@ -103,7 +103,6 @@ Identified challenges include:
 2. **Geographic and Temporal Bias**: Systematic errors in predictions due to biases in training data.           ![Demo Screenshot](images/1.10.png "Demo")
 3. **Error in handling Spatial SQL Queries**:  ![Demo Screenshot](images/1.11.png "Demo")
 
-_Image Placeholder: Limitations Slide_
 
 ---
 
