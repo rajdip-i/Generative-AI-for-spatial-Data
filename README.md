@@ -129,7 +129,7 @@ This seminar:
 3. A novel architecture for fine-tuned flood mapping in India.
 4. The future scope of Generative AI in addressing challenges like data scarcity and geographic bias.
 
-
+ 
 ---
 
 ## References
